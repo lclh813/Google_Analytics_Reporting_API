@@ -26,9 +26,9 @@ To execute R script from Python successfully, the following steps should be take
 - Install ```rpy2``` package with a ***whl*** file.  
 - Set environmental variables which can affect an R session, incliuding:  
 ```R_HOME```: Locate top-level directory of R.  
-```R_PATH```: Locate ```R.dll``` file.  
-```R_USER```: Locate ```rpy2``` package.  
-```R_LIBS_USER```: Locate ```R Library```.  
+```R_PATH```: Locate ***R.dll*** file.  
+```R_USER```: Locate ***rpy2*** package.  
+```R_LIBS_USER```: Locate ***R Library***.  
 
 ## Part 4. Steps
 
