@@ -43,7 +43,7 @@ To execute R script from Python successfully, the following steps should be take
 [2.2.2. Extract Data of a Given Period of Time](https://github.com/lclh813/Google_Analytics_Reporting_API/blob/master/2_2_2_Period.R)  
 
 ### Step 3. Data Updates
-[3. Data Updates](https://nbviewer.jupyter.org/github/Google_Analytics_Reporting_API/blob/master/3_DataUpdates.ipynb)  
+[3. Data Updates](https://nbviewer.jupyter.org/github/lclh813/Google_Analytics_Reporting_API/blob/master/3_DataUpdates.ipynb)  
 
 ## Part 5. Reference
 - [How to Install rpy2 in Windows](https://www.cnblogs.com/Xeonilian/p/windows_rpy2_install.html) 
