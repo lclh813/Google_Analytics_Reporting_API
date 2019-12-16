@@ -28,11 +28,23 @@ To execute R script from Python successfully, the following steps should be take
 ```R_HOME```: Locate top-level directory of R.  
 ```R_PATH```: Locate ***R.dll*** file.  
 ```R_USER```: Locate ***rpy2*** package.  
-```R_LIBS_USER```: Locate ***R Library***.  
+```R_LIBS_USER```: Locate ***R Library***.
+- If R library and Python library are not in the same directory, it is necessary to specify where R library is when importing R packages in Python.
 
 ## Part 4. Steps
+> [***Complete R Code***]
+> [***Complete Python Code***]
 
+### Step 1. Preparation
+[1. Preparation]
+
+### Step 2. Data Extraction
+[2. Data Extraction]
+
+### Step 3. Data Updates
+[3. Data Updates]
 
 ## Part 5. Reference
-- [How to Install rpy2 in Windows](https://www.cnblogs.com/Xeonilian/p/windows_rpy2_install.html)  
+- [How to Install rpy2 in Windows](https://www.cnblogs.com/Xeonilian/p/windows_rpy2_install.html) 
+- [How to Install R Packages in Python](https://stackoverflow.com/questions/46140624/unable-to-install-r-package-in-python-jupyter-notebook)
 - [R Manual](https://stat.ethz.ch/R-manual/)
