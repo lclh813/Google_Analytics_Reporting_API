@@ -15,11 +15,10 @@ Retrieve Google Analytics reporting data by R which provides simpler authenticat
 
 ### 3.2. Data Updates
 Update the existing Excel workbook with extracted Google Analytics reporting data by Python.
-- Tools: ```xlwings```
+- Tools: ```rpy2``` ```xlwings```
 
 ### 3.3. Facilitate Reporting Process
 Integrate the process of data extraction and data updates into a batch file that can be executed as the scheduled task on a daily basis.
-- Tool: ```rp2``` ```xlwings```
 
 ### Notice: 
 To execute R script from Python successfully, the following steps should be taken:  
