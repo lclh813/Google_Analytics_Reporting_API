@@ -23,8 +23,8 @@ Integrate the process of data extraction and data updates into a batch file that
 
 ### Notice: 
 To execute R script from Python successfully, the following steps should be taken:  
-- Step 1. Install ***rpy2*** package with a ***whl*** file.  
-- Step 2. Set environmental variables which can affect an R session, incliuding:  
+- Install ***rpy2*** package with a ***whl*** file.  
+- Set environmental variables which can affect an R session, incliuding:  
 ```R_HOME```: Locate top-level directory of R.  
 ```R_PATH```: Locate ***R.dll*** file.  
 ```R_USER```: Locate ***rpy2*** package.  
