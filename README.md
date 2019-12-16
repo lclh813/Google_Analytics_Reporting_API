@@ -38,9 +38,9 @@ To execute R script from Python successfully, the following steps should be take
 [1. Preparation]
 
 ### Step 2. Data Extraction
-[2. Data Extraction](https://nbviewer.jupyter.org/github/lclh813/Google_Analytics_Reporting_API/blob/master/2_DataExtraction.ipynb1\library)
-[2.2.1. Extract Data of a Given Day](https://github.com/lclh813/Google_Analytics_Reporting_API/blob/master/oneday.R)
-[2.2.2. Extract Data of a Given Period of Time](https://github.com/lclh813/Google_Analytics_Reporting_API/blob/master/period.R)
+[2. Data Extraction](https://nbviewer.jupyter.org/github/lclh813/Google_Analytics_Reporting_API/blob/master/2_DataExtraction.ipynb1\library)  
+[2.2.1. Extract Data of a Given Day](https://github.com/lclh813/Google_Analytics_Reporting_API/blob/master/oneday.R)  
+[2.2.2. Extract Data of a Given Period of Time](https://github.com/lclh813/Google_Analytics_Reporting_API/blob/master/period.R)  
 
 
 ### Step 3. Data Updates
