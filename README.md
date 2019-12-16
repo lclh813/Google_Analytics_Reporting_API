@@ -20,9 +20,18 @@ Update the existing Excel workbook with extracted Google Analytics reporting dat
 ### 3.3. Facilitate Reporting Process
 Integrate the process of data extraction and data updates into a batch file that can be executed as the scheduled task on a daily basis.
 - Tool: ```rp2``` ```xlwings```
-> Notice: To execute R script from Python successfully, the following steps should be taken:  
-> (1) Install ```rpy2``` package with a ***whl*** file.  
-> (2) Set environmental variables which can affect an R session, incliuding:  
->> R_HOME
+
+### Notice: 
+To execute R script from Python successfully, the following steps should be taken:  
+- Install ```rpy2``` package with a ***whl*** file.  
+- Set environmental variables which can affect an R session, incliuding:  
+> R_HOME: Locate top-level directory of R.  
+> R_PATH: Locate ```R.dll``` file.  
+> R_USER: Locate ```rpy2``` package.  
+> R_LIBS_USER: Locate ```R Library```.  
 
 ## Part 4. Steps
+
+## Part 5. Reference
+- [How to Install rpy2 in Windows](https://www.cnblogs.com/Xeonilian/p/windows_rpy2_install.html)  
+- [R Manual](https://stat.ethz.ch/R-manual/)
