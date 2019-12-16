@@ -1,4 +1,8 @@
 # Goolge Analytics Reporting API
+<br>
+<div align=center><img src="https://github.com/lclh813/Google_Analytics_Reporting_API/blob/master/0_Intro.png"/></div>
+<br>
+
 ## Notice
 It is possible that GitHub fails to display Jupyter Notebooks. Should such circumstances arise, please refer to ***Part 4. Steps*** listed below for code samples.
 
