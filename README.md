@@ -7,7 +7,7 @@ It is possible that GitHub fails to display Jupyter Notebooks. Should such circu
 ## Part 1. Objective
 Automatically update Google Analytics reporting data to the existing Excel workbook by R and Python.
 <br>
-<div align=center><img src="https://github.com/lclh813/Google_Analytics_Reporting_API/blob/master/Pic/0_Intro.png"/></div>
+<div align=center><img src="https://github.com/lclh813/Google_Analytics_Reporting_API/blob/master/Pic/P_0_Intro.png"/></div>
 <br>
 
 ## Part 2. Data
